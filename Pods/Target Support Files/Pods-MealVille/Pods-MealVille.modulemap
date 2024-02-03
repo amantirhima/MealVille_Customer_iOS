@@ -1,0 +1,6 @@
+framework module Pods_MealVille {
+  umbrella header "Pods-MealVille-umbrella.h"
+
+  export *
+  module * { export * }
+}

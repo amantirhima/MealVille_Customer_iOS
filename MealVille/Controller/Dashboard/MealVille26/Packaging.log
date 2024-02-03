@@ -1,0 +1,688 @@
+2022-06-26 10:14:59 +0000  Initial pipeline context: <IDEDistributionProcessingPipelineContext: 0x7fe75aa56fe0; archive(resolved)='<IDEArchive: 0x7fe7131609b0>', distributionTask(resolved)='2', distributionDestination(resolved)='1', distributionMethod(resolved)='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team(resolved)='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	Chain (14, self inclusive):
+	<IDEDistributionProcessingPipelineContext: 0x7fe75aa56fe0; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionProcessingPipelineContext: 0x7fe717637c20; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe71220db50; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe774f62040; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe71720abc0; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe7172aad70; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe75b8a8240; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe71356bcd0; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe7135a1a90; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='<IDEProvisioningDisambiguatableBasicTeam: 0x7fe79b025f90; teamID='2PV4857K82', teamName='MECHCUBEI SOLUTIONS PRIVATE LIMITED', teamType='Company', username='contact@mechcubei.com', isFreeProvisioningTeam='0'>'>
+	<IDEDistributionContext: 0x7fe7174d2bd0; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='(null)'>
+	<IDEDistributionContext: 0x7fe7174196d0; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='(null)'>
+	<IDEDistributionContext: 0x7fe717410f10; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='(null)'>
+	<IDEDistributionContext: 0x7fe77d5c56c0; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='<IDEDistributionMethodDevelopmentSigned: 0x7fe71236d6e0>', team='(null)'>
+	<IDEDistributionContext: 0x7fe77d55b2b0; archive = '<IDEArchive: 0x7fe7131609b0>', distributionMethod='(null)', team='(null)'>
+</IDEDistributionProcessingPipelineContext: 0x7fe75aa56fe0>
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionCreateDestRootStep
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionCopyItemStep
+2022-06-26 10:14:59 +0000  Running /usr/bin/ditto '-V' '/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app'
+2022-06-26 10:14:59 +0000  >>> Copying /Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app 
+2022-06-26 10:14:59 +0000  copying file ./_CodeSignature/CodeResources ... 
+2022-06-26 10:14:59 +0000  22315 bytes for ./_CodeSignature/CodeResources
+2022-06-26 10:14:59 +0000  copying file ./ServiceTimeCollection.nib ... 
+2022-06-26 10:14:59 +0000  4369 bytes for ./ServiceTimeCollection.nib
+copying file ./UserOrderHistoryCell.nib ... 
+2022-06-26 10:14:59 +0000  6398 bytes for ./UserOrderHistoryCell.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/OtpVerificationVC.nib ... 
+2022-06-26 10:14:59 +0000  1026 bytes for ./Base.lproj/Main.storyboardc/OtpVerificationVC.nib
+copying file ./Base.lproj/Main.storyboardc/BoardingScreensVC.nib ... 
+2022-06-26 10:14:59 +0000  1104 bytes for ./Base.lproj/Main.storyboardc/BoardingScreensVC.nib
+copying file ./Base.lproj/Main.storyboardc/N2S-J1-ieb-view-sAV-zU-k2F.nib ... 
+2022-06-26 10:14:59 +0000  5639 bytes for ./Base.lproj/Main.storyboardc/N2S-J1-ieb-view-sAV-zU-k2F.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/YVp-c5-mlO-view-8i9-2m-NBu.nib ... 
+2022-06-26 10:14:59 +0000  8133 bytes for ./Base.lproj/Main.storyboardc/YVp-c5-mlO-view-8i9-2m-NBu.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/CheckOutVC.nib ... 
+2022-06-26 10:14:59 +0000  1012 bytes for ./Base.lproj/Main.storyboardc/CheckOutVC.nib
+copying file ./Base.lproj/Main.storyboardc/4r6-JB-zcv-view-RM6-9a-bE4.nib ... 
+2022-06-26 10:14:59 +0000  7202 bytes for ./Base.lproj/Main.storyboardc/4r6-JB-zcv-view-RM6-9a-bE4.nib
+copying file ./Base.lproj/Main.storyboardc/uFl-HI-hUT-view-v2B-9A-8Zn.nib ... 
+2022-06-26 10:14:59 +0000  4276 bytes for ./Base.lproj/Main.storyboardc/uFl-HI-hUT-view-v2B-9A-8Zn.nib
+copying file ./Base.lproj/Main.storyboardc/OrderHistoryVC.nib ... 
+2022-06-26 10:14:59 +0000  1098 bytes for ./Base.lproj/Main.storyboardc/OrderHistoryVC.nib
+copying file ./Base.lproj/Main.storyboardc/QEC-z1-aG1-view-Wbo-Kg-kyr.nib ... 
+2022-06-26 10:14:59 +0000  20545 bytes for ./Base.lproj/Main.storyboardc/QEC-z1-aG1-view-Wbo-Kg-kyr.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/IOu-7E-yFQ-view-vcp-ST-z4a.nib ... 
+2022-06-26 10:14:59 +0000  6512 bytes for ./Base.lproj/Main.storyboardc/IOu-7E-yFQ-view-vcp-ST-z4a.nib
+copying file ./Base.lproj/Main.storyboardc/UP0-oT-QvF-view-SJy-Dq-ax6.nib ... 
+2022-06-26 10:14:59 +0000  26703 bytes for ./Base.lproj/Main.storyboardc/UP0-oT-QvF-view-SJy-Dq-ax6.nib
+copying file ./Base.lproj/Main.storyboardc/MealTypeVC.nib ... 
+2022-06-26 10:14:59 +0000  1090 bytes for ./Base.lproj/Main.storyboardc/MealTypeVC.nib
+copying file ./Base.lproj/Main.storyboardc/SignupVC.nib ... 
+2022-06-26 10:14:59 +0000  1007 bytes for ./Base.lproj/Main.storyboardc/SignupVC.nib
+copying file ./Base.lproj/Main.storyboardc/SettingsVC.nib ... 
+2022-06-26 10:14:59 +0000  1090 bytes for ./Base.lproj/Main.storyboardc/SettingsVC.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/THD-WY-aAg-view-ay5-JF-Uoy.nib ... 
+2022-06-26 10:14:59 +0000  8561 bytes for ./Base.lproj/Main.storyboardc/THD-WY-aAg-view-ay5-JF-Uoy.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/pUH-nq-ak5-view-6bi-1M-dEP.nib ... 
+2022-06-26 10:14:59 +0000  27272 bytes for ./Base.lproj/Main.storyboardc/pUH-nq-ak5-view-6bi-1M-dEP.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/UINavigationController-NVL-wy-7cX.nib ... 
+2022-06-26 10:14:59 +0000  1784 bytes for ./Base.lproj/Main.storyboardc/UINavigationController-NVL-wy-7cX.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/DashboardVC.nib ... 
+2022-06-26 10:14:59 +0000  1014 bytes for ./Base.lproj/Main.storyboardc/DashboardVC.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/SideMenuController.nib ... 
+2022-06-26 10:14:59 +0000  1028 bytes for ./Base.lproj/Main.storyboardc/SideMenuController.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/FJN-Q4-6cx-view-lGb-e6-Yve.nib ... 
+2022-06-26 10:14:59 +0000  22740 bytes for ./Base.lproj/Main.storyboardc/FJN-Q4-6cx-view-lGb-e6-Yve.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/TabbarVC.nib ... 
+2022-06-26 10:14:59 +0000  4144 bytes for ./Base.lproj/Main.storyboardc/TabbarVC.nib
+copying file ./Base.lproj/Main.storyboardc/Info.plist ... 
+2022-06-26 10:14:59 +0000  645 bytes for ./Base.lproj/Main.storyboardc/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/Main.storyboardc/LoginVC.nib ... 
+2022-06-26 10:14:59 +0000  1083 bytes for ./Base.lproj/Main.storyboardc/LoginVC.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/UIViewController-7lw-HD-z39.nib ... 
+2022-06-26 10:14:59 +0000  896 bytes for ./Base.lproj/LaunchScreen.storyboardc/UIViewController-7lw-HD-z39.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/7lw-HD-z39-view-93l-NN-ETi.nib ... 
+2022-06-26 10:14:59 +0000  2636 bytes for ./Base.lproj/LaunchScreen.storyboardc/7lw-HD-z39-view-93l-NN-ETi.nib
+2022-06-26 10:14:59 +0000  copying file ./Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2022-06-26 10:14:59 +0000  258 bytes for ./Base.lproj/LaunchScreen.storyboardc/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./Assets.car ... 
+2022-06-26 10:14:59 +0000  2720047 bytes for ./Assets.car
+2022-06-26 10:14:59 +0000  copying file ./BoardingCollectoinCell.nib ... 
+2930 bytes for ./BoardingCollectoinCell.nib
+copying file ./MealTypeCell.nib ... 
+2022-06-26 10:14:59 +0000  5335 bytes for ./MealTypeCell.nib
+2022-06-26 10:14:59 +0000  copying file ./MealVille ... 
+2022-06-26 10:14:59 +0000  1716624 bytes for ./MealVille
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:14:59 +0000  1798 bytes for ./Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SwiftyJSON.framework/SwiftyJSON ... 
+2022-06-26 10:14:59 +0000  988640 bytes for ./Frameworks/SwiftyJSON.framework/SwiftyJSON
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SwiftyJSON.framework/Info.plist ... 
+2022-06-26 10:14:59 +0000  742 bytes for ./Frameworks/SwiftyJSON.framework/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:14:59 +0000  5706 bytes for ./Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD ... 
+2022-06-26 10:14:59 +0000  627792 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png ... 
+2022-06-26 10:14:59 +0000  365 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png ... 
+2022-06-26 10:14:59 +0000  398 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png ... 
+2022-06-26 10:14:59 +0000  8319 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png ... 
+2022-06-26 10:14:59 +0000  4893 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png ... 
+2022-06-26 10:14:59 +0000  306 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png ... 
+2022-06-26 10:14:59 +0000  1200 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png ... 
+2022-06-26 10:14:59 +0000  462 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png
+copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png ... 
+2022-06-26 10:14:59 +0000  714 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png ... 
+2022-06-26 10:14:59 +0000  816 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png ... 
+2022-06-26 10:14:59 +0000  184 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png ... 
+2022-06-26 10:14:59 +0000  262 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png ... 
+2022-06-26 10:14:59 +0000  1845 bytes for ./Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/SVProgressHUD.framework/Info.plist ... 
+2022-06-26 10:14:59 +0000  748 bytes for ./Frameworks/SVProgressHUD.framework/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/MKOtpView.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:14:59 +0000  1798 bytes for ./Frameworks/MKOtpView.framework/_CodeSignature/CodeResources
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/MKOtpView.framework/MKOtpView ... 
+2022-06-26 10:14:59 +0000  385536 bytes for ./Frameworks/MKOtpView.framework/MKOtpView
+copying file ./Frameworks/MKOtpView.framework/Info.plist ... 
+2022-06-26 10:14:59 +0000  740 bytes for ./Frameworks/MKOtpView.framework/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/DropDown.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:14:59 +0000  2096 bytes for ./Frameworks/DropDown.framework/_CodeSignature/CodeResources
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/DropDown.framework/DropDown ... 
+2022-06-26 10:14:59 +0000  1118480 bytes for ./Frameworks/DropDown.framework/DropDown
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/DropDown.framework/DropDownCell.nib ... 
+2022-06-26 10:14:59 +0000  2511 bytes for ./Frameworks/DropDown.framework/DropDownCell.nib
+copying file ./Frameworks/DropDown.framework/Info.plist ... 
+2022-06-26 10:14:59 +0000  739 bytes for ./Frameworks/DropDown.framework/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/OTPFieldView.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:14:59 +0000  1798 bytes for ./Frameworks/OTPFieldView.framework/_CodeSignature/CodeResources
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/OTPFieldView.framework/OTPFieldView ... 
+2022-06-26 10:14:59 +0000  443504 bytes for ./Frameworks/OTPFieldView.framework/OTPFieldView
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/OTPFieldView.framework/Info.plist ... 
+2022-06-26 10:14:59 +0000  747 bytes for ./Frameworks/OTPFieldView.framework/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:14:59 +0000  1798 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift ... 
+2022-06-26 10:14:59 +0000  2640400 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+2022-06-26 10:14:59 +0000  copying file ./Frameworks/IQKeyboardManagerSwift.framework/Info.plist ... 
+768 bytes for ./Frameworks/IQKeyboardManagerSwift.framework/Info.plist
+copying file ./Frameworks/Alamofire.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/Alamofire.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/Alamofire.framework/Alamofire ... 
+2022-06-26 10:14:59 +0000  3655824 bytes for ./Frameworks/Alamofire.framework/Alamofire
+copying file ./Frameworks/Alamofire.framework/Info.plist ... 
+2022-06-26 10:14:59 +0000  740 bytes for ./Frameworks/Alamofire.framework/Info.plist
+copying file ./Frameworks/MMDrawerController.framework/_CodeSignature/CodeResources ... 
+1798 bytes for ./Frameworks/MMDrawerController.framework/_CodeSignature/CodeResources
+copying file ./Frameworks/MMDrawerController.framework/MMDrawerController ... 
+2022-06-26 10:14:59 +0000  577792 bytes for ./Frameworks/MMDrawerController.framework/MMDrawerController
+copying file ./Frameworks/MMDrawerController.framework/Info.plist ... 
+2022-06-26 10:14:59 +0000  760 bytes for ./Frameworks/MMDrawerController.framework/Info.plist
+2022-06-26 10:14:59 +0000  copying file ./embedded.mobileprovision ... 
+2022-06-26 10:14:59 +0000  21103 bytes for ./embedded.mobileprovision
+copying file ./Info.plist ... 
+2022-06-26 10:14:59 +0000  1522 bytes for ./Info.plist
+copying file ./SideMenuTableViewCell.nib ... 
+2022-06-26 10:14:59 +0000  4239 bytes for ./SideMenuTableViewCell.nib
+copying file ./PkgInfo ... 
+2022-06-26 10:14:59 +0000  8 bytes for ./PkgInfo
+copying file ./IntroImageCell.nib ... 
+2022-06-26 10:14:59 +0000  3667 bytes for ./IntroImageCell.nib
+2022-06-26 10:14:59 +0000  /usr/bin/ditto exited with 0
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionEmbedProfileStep
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe71748c9d0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fe7122c0c50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe731798ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168a7f60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fe7118a48b0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe71728e0e0; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fe7118a5800:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75a0ec420; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71680f9f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fe7118a6b20:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe7172bc450; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7fe713171620:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe739020bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168a7f60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7fe75aa81a50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe7385643b0; bundleID='org.cocoapods.MKOtpView', path='<DVTFilePath:0x7fe7118a9ba0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124dd0d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71680f9f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MKOtpView', executablePath='<DVTFilePath:0x7fe7398975f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe71306f000; bundleID='org.cocoapods.MMDrawerController', path='<DVTFilePath:0x7fe7122c10d0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe73606d970; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168a7f60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MMDrawerController', executablePath='<DVTFilePath:0x7fe75aa75650:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe7174634e0; bundleID='org.cocoapods.OTPFieldView', path='<DVTFilePath:0x7fe7122c2cd0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124e3fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe713054ae0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe797feb880>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.OTPFieldView', executablePath='<DVTFilePath:0x7fe758ec35f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe73a3b12d0; bundleID='org.cocoapods.SVProgressHUD', path='<DVTFilePath:0x7fe7122c5720:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe713591840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71680f9f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SVProgressHUD', executablePath='<DVTFilePath:0x7fe71305db50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping profile for item: <IDEDistributionItem: 0x7fe75aa5b710; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fe7118af430:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7240fe9a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168a7f60>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fe77d0c9940:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionInfoPlistStep
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionInfoPlistStep because it said so
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionAppThinningPlistStep
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionAppThinningPlistStep because it said so
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionCompileBitcodeStep
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCompileBitcodeStep because it said so
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionCodeSlimmingStep
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/Alamofire.framework/Alamofire' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/Alamofire.framework/Alamofire'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/DropDown.framework/DropDown' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/DropDown.framework/DropDown'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/MealVille' '-r' '-o' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/MealVille'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/bitcode_strip exited with 0
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionCopyBCSymbolMapsStep
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionCopyBCSymbolMapsStep because it said so
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionSymbolsStep
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionSymbolsStep because it said so
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionAppThinningStep
+2022-06-26 10:14:59 +0000  Skipping step: IDEDistributionAppThinningStep because it said so
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionArchThinningStep
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/Alamofire.framework/Alamofire' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "Alamofire" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/DropDown.framework/DropDown' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "DropDown" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "IQKeyboardManagerSwift" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "MKOtpView" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "MMDrawerController" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "OTPFieldView" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "SVProgressHUD" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "SwiftyJSON" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Running /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/MealVille' '-verify_arch' 'arm64e'
+2022-06-26 10:14:59 +0000  /Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/lipo exited with 1
+2022-06-26 10:14:59 +0000  Skipping architecture thinning for item "MealVille" because arch "arm64e" wasn't found
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionODRStep
+2022-06-26 10:14:59 +0000  Processing step: IDEDistributionStripXattrsStep
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe71748c9d0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fe7122c0c50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe731798ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7174a5800; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71318afc0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fe7118a48b0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe71728e0e0; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fe7118a5800:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75a0ec420; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168fca70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fe7118a6b20:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe7172bc450; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7fe713171620:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe739020bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7658b9820>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7fe75aa81a50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe7385643b0; bundleID='org.cocoapods.MKOtpView', path='<DVTFilePath:0x7fe7118a9ba0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124dd0d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168fca70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MKOtpView', executablePath='<DVTFilePath:0x7fe7398975f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe71306f000; bundleID='org.cocoapods.MMDrawerController', path='<DVTFilePath:0x7fe7122c10d0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe73606d970; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168bd050>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MMDrawerController', executablePath='<DVTFilePath:0x7fe75aa75650:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe7174634e0; bundleID='org.cocoapods.OTPFieldView', path='<DVTFilePath:0x7fe7122c2cd0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124e3fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168fca70>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.OTPFieldView', executablePath='<DVTFilePath:0x7fe758ec35f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe73a3b12d0; bundleID='org.cocoapods.SVProgressHUD', path='<DVTFilePath:0x7fe7122c5720:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe713591840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168bd050>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SVProgressHUD', executablePath='<DVTFilePath:0x7fe71305db50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Skipping stripping extended attributes of item: <IDEDistributionItem: 0x7fe75aa5b710; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fe7118af430:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7240fe9a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe724fd61a0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7171944c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fe77d0c9940:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'>
+2022-06-26 10:14:59 +0000  Running /usr/bin/xattr '-crs' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app'
+2022-06-26 10:15:00 +0000  /usr/bin/xattr exited with 0
+2022-06-26 10:15:00 +0000  Processing step: IDEDistributionCodesignStep
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe71748c9d0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fe7122c0c50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe731798ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716886c00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fe7118a48b0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe71748c9d0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fe7122c0c50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe731798ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7172104d0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716cc0e20>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fe7118a48b0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe71748c9d0; bundleID='org.cocoapods.Alamofire', path='<DVTFilePath:0x7fe7122c0c50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe731798ad0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717729f10; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716c31000>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.Alamofire', executablePath='<DVTFilePath:0x7fe7118a48b0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/Alamofire.framework/Alamofire'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~Ucd5RK
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~Ucd5RK' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/Alamofire.framework'
+2022-06-26 10:15:00 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/Alamofire.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.Alamofire]
+2022-06-26 10:15:00 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe71728e0e0; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fe7118a5800:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75a0ec420; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7130362f0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71318c1d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fe7118a6b20:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe71728e0e0; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fe7118a5800:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75a0ec420; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716d1dcf0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71681ef80>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fe7118a6b20:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe71728e0e0; bundleID='org.cocoapods.DropDown', path='<DVTFilePath:0x7fe7118a5800:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75a0ec420; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe71358cb00; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168167c0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.DropDown', executablePath='<DVTFilePath:0x7fe7118a6b20:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/DropDown.framework/DropDown'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~e9wE1n
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~e9wE1n' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/DropDown.framework'
+2022-06-26 10:15:00 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/DropDown.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.DropDown]
+2022-06-26 10:15:00 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe7172bc450; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7fe713171620:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe739020bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716845980>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7fe75aa81a50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe7172bc450; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7fe713171620:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe739020bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716d92a40; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7168939a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7fe75aa81a50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe7172bc450; bundleID='org.cocoapods.IQKeyboardManagerSwift', path='<DVTFilePath:0x7fe713171620:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe739020bb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7172855a0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716cb88a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.IQKeyboardManagerSwift', executablePath='<DVTFilePath:0x7fe75aa81a50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~fVdcMf
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~fVdcMf' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework'
+2022-06-26 10:15:00 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.IQKeyboardManagerSwift]
+2022-06-26 10:15:00 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe7385643b0; bundleID='org.cocoapods.MKOtpView', path='<DVTFilePath:0x7fe7118a9ba0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124dd0d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe7926248b0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MKOtpView', executablePath='<DVTFilePath:0x7fe7398975f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe7385643b0; bundleID='org.cocoapods.MKOtpView', path='<DVTFilePath:0x7fe7118a9ba0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124dd0d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7130362f0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71316bf00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MKOtpView', executablePath='<DVTFilePath:0x7fe7398975f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe7385643b0; bundleID='org.cocoapods.MKOtpView', path='<DVTFilePath:0x7fe7118a9ba0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124dd0d0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716d485e0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71682f870>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MKOtpView', executablePath='<DVTFilePath:0x7fe7398975f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~VFvy4i
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~VFvy4i' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MKOtpView.framework'
+2022-06-26 10:15:00 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MKOtpView.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.MKOtpView]
+2022-06-26 10:15:00 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe71306f000; bundleID='org.cocoapods.MMDrawerController', path='<DVTFilePath:0x7fe7122c10d0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe73606d970; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7174a5800; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71318c1d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MMDrawerController', executablePath='<DVTFilePath:0x7fe75aa75650:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe71306f000; bundleID='org.cocoapods.MMDrawerController', path='<DVTFilePath:0x7fe7122c10d0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe73606d970; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe717249b70; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe724cad0f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MMDrawerController', executablePath='<DVTFilePath:0x7fe75aa75650:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe71306f000; bundleID='org.cocoapods.MMDrawerController', path='<DVTFilePath:0x7fe7122c10d0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe73606d970; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716d82450; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716cd1320>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.MMDrawerController', executablePath='<DVTFilePath:0x7fe75aa75650:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~8n2gxV
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~8n2gxV' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MMDrawerController.framework'
+2022-06-26 10:15:00 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MMDrawerController.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.MMDrawerController]
+2022-06-26 10:15:00 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe7174634e0; bundleID='org.cocoapods.OTPFieldView', path='<DVTFilePath:0x7fe7122c2cd0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124e3fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716ca92d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.OTPFieldView', executablePath='<DVTFilePath:0x7fe758ec35f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe7174634e0; bundleID='org.cocoapods.OTPFieldView', path='<DVTFilePath:0x7fe7122c2cd0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124e3fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716d37770; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71682f870>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.OTPFieldView', executablePath='<DVTFilePath:0x7fe758ec35f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe7174634e0; bundleID='org.cocoapods.OTPFieldView', path='<DVTFilePath:0x7fe7122c2cd0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7124e3fb0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716d82350; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716826060>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.OTPFieldView', executablePath='<DVTFilePath:0x7fe758ec35f0:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~I5m80n
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~I5m80n' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/OTPFieldView.framework'
+2022-06-26 10:15:00 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/OTPFieldView.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.OTPFieldView]
+2022-06-26 10:15:00 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe73a3b12d0; bundleID='org.cocoapods.SVProgressHUD', path='<DVTFilePath:0x7fe7122c5720:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe713591840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716ca92d0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SVProgressHUD', executablePath='<DVTFilePath:0x7fe71305db50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe73a3b12d0; bundleID='org.cocoapods.SVProgressHUD', path='<DVTFilePath:0x7fe7122c5720:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe713591840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7174450c0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71316bf00>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SVProgressHUD', executablePath='<DVTFilePath:0x7fe71305db50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe73a3b12d0; bundleID='org.cocoapods.SVProgressHUD', path='<DVTFilePath:0x7fe7122c5720:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe713591840; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716d34730; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716cb88a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SVProgressHUD', executablePath='<DVTFilePath:0x7fe71305db50:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~G2zwLO
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~G2zwLO' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SVProgressHUD.framework'
+2022-06-26 10:15:00 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SVProgressHUD.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.SVProgressHUD]
+2022-06-26 10:15:00 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe75aa5b710; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fe7118af430:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7240fe9a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7174baea0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe713145dd0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fe77d0c9940:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'>: {
+}
+2022-06-26 10:15:00 +0000  Entitlements for <IDEDistributionItem: 0x7fe75aa5b710; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fe7118af430:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7240fe9a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe71358cb00; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe724cad0f0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fe77d0c9940:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'> are: {
+}
+2022-06-26 10:15:00 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe75aa5b710; bundleID='org.cocoapods.SwiftyJSON', path='<DVTFilePath:0x7fe7118af430:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe7240fe9a0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716db13a0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716cb88a0>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='(null)', teamID='2PV4857K82', identifier='org.cocoapods.SwiftyJSON', executablePath='<DVTFilePath:0x7fe77d0c9940:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~JTNslk
+2022-06-26 10:15:00 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~JTNslk' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SwiftyJSON.framework'
+2022-06-26 10:15:01 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SwiftyJSON.framework: signed bundle with Mach-O universal (arm64) [org.cocoapods.SwiftyJSON]
+2022-06-26 10:15:01 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:01 +0000  Entitlements for <IDEDistributionItem: 0x7fe716c0f320; bundleID='com.first.MealVille', path='<DVTFilePath:0x7fe712236a30:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75b8445e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716cc6eb0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe716c56080>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='{
+    "application-identifier" = "2PV4857K82.com.first.MealVille";
+    "com.apple.developer.team-identifier" = 2PV4857K82;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "2PV4857K82.com.first.MealVille"
+    );
+}', teamID='2PV4857K82', identifier='com.first.MealVille', executablePath='<DVTFilePath:0x7fe72aa86990:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/MealVille'>', hardenedRuntime='0'>'>: {
+    "application-identifier" = "2PV4857K82.com.first.MealVille";
+    "com.apple.developer.team-identifier" = 2PV4857K82;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "2PV4857K82.com.first.MealVille"
+    );
+}
+2022-06-26 10:15:01 +0000  Entitlements for <IDEDistributionItem: 0x7fe716c0f320; bundleID='com.first.MealVille', path='<DVTFilePath:0x7fe712236a30:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75b8445e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe7253494c0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe712523370>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='{
+    "application-identifier" = "2PV4857K82.com.first.MealVille";
+    "com.apple.developer.team-identifier" = 2PV4857K82;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "2PV4857K82.com.first.MealVille"
+    );
+}', teamID='2PV4857K82', identifier='com.first.MealVille', executablePath='<DVTFilePath:0x7fe72aa86990:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/MealVille'>', hardenedRuntime='0'>'> are: {
+    "application-identifier" = "2PV4857K82.com.first.MealVille";
+    "com.apple.developer.team-identifier" = 2PV4857K82;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "2PV4857K82.com.first.MealVille"
+    );
+}
+2022-06-26 10:15:01 +0000  Writing entitlements for <IDEDistributionItem: 0x7fe716c0f320; bundleID='com.first.MealVille', path='<DVTFilePath:0x7fe712236a30:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app'>', codeSigningInfo='<_DVTCodeSigningInformation_Path: 0x7fe75b8445e0; isSigned='1', isAdHocSigned='0', signingCertificate='<DVTSigningCertificate: 0x7fe716de32e0; name='Apple Development: Sharique Zia (L6M3XYBBU6)', hash='EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460', serialNumber='<DVTSigningCertificateSerialNumber: 0x7fe71684ca90>', certificateKinds='(
+    "1.2.840.113635.100.6.1.12",
+    "1.2.840.113635.100.6.1.2"
+), issueDate='2021-11-06 16:00:59 +0000''>', entitlements='{
+    "application-identifier" = "2PV4857K82.com.first.MealVille";
+    "com.apple.developer.team-identifier" = 2PV4857K82;
+    "get-task-allow" = 1;
+    "keychain-access-groups" =     (
+        "2PV4857K82.com.first.MealVille"
+    );
+}', teamID='2PV4857K82', identifier='com.first.MealVille', executablePath='<DVTFilePath:0x7fe72aa86990:'/Users/amandeeptirhima/Library/Developer/Xcode/Archives/2022-06-26/MealVille 26-06-22, 3.44 PM.xcarchive/Products/Applications/MealVille.app/MealVille'>', hardenedRuntime='0'>'> to: /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~7Qcm0n
+2022-06-26 10:15:01 +0000  Running /usr/bin/codesign '-vvv' '--force' '--sign' 'EE8E3DE7C3E83FF03DC16FA3D2D5CFC8395B0460' '--entitlements' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/entitlements~~~7Qcm0n' '--preserve-metadata=identifier,flags,runtime' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app'
+2022-06-26 10:15:01 +0000  /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app: signed app bundle with Mach-O thin (arm64) [com.first.MealVille]
+2022-06-26 10:15:01 +0000  /usr/bin/codesign exited with 0
+2022-06-26 10:15:01 +0000  Processing step: IDEDistributionZipODRItemStep
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionZipODRItemStep because it said so
+2022-06-26 10:15:01 +0000  Processing step: IDEDistributionCreateIPAStep
+2022-06-26 10:15:01 +0000  Running /usr/bin/ditto '-V' '-c' '-k' '--norsrc' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root' '/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Packages/MealVille.ipa'
+2022-06-26 10:15:01 +0000  >>> Copying /var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root 
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  22315 bytes for ./Payload/MealVille.app/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/ServiceTimeCollection.nib ... 
+2022-06-26 10:15:01 +0000  4369 bytes for ./Payload/MealVille.app/ServiceTimeCollection.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/UserOrderHistoryCell.nib ... 
+2022-06-26 10:15:01 +0000  6398 bytes for ./Payload/MealVille.app/UserOrderHistoryCell.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/OtpVerificationVC.nib ... 
+2022-06-26 10:15:01 +0000  1026 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/OtpVerificationVC.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/BoardingScreensVC.nib ... 
+2022-06-26 10:15:01 +0000  1104 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/BoardingScreensVC.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/N2S-J1-ieb-view-sAV-zU-k2F.nib ... 
+2022-06-26 10:15:01 +0000  5639 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/N2S-J1-ieb-view-sAV-zU-k2F.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/YVp-c5-mlO-view-8i9-2m-NBu.nib ... 
+2022-06-26 10:15:01 +0000  8133 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/YVp-c5-mlO-view-8i9-2m-NBu.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/CheckOutVC.nib ... 
+2022-06-26 10:15:01 +0000  1012 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/CheckOutVC.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/4r6-JB-zcv-view-RM6-9a-bE4.nib ... 
+2022-06-26 10:15:01 +0000  7202 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/4r6-JB-zcv-view-RM6-9a-bE4.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/uFl-HI-hUT-view-v2B-9A-8Zn.nib ... 
+2022-06-26 10:15:01 +0000  4276 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/uFl-HI-hUT-view-v2B-9A-8Zn.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/OrderHistoryVC.nib ... 
+2022-06-26 10:15:01 +0000  1098 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/OrderHistoryVC.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/QEC-z1-aG1-view-Wbo-Kg-kyr.nib ... 
+2022-06-26 10:15:01 +0000  20545 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/QEC-z1-aG1-view-Wbo-Kg-kyr.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/IOu-7E-yFQ-view-vcp-ST-z4a.nib ... 
+2022-06-26 10:15:01 +0000  6512 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/IOu-7E-yFQ-view-vcp-ST-z4a.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/UP0-oT-QvF-view-SJy-Dq-ax6.nib ... 
+2022-06-26 10:15:01 +0000  26703 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/UP0-oT-QvF-view-SJy-Dq-ax6.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/MealTypeVC.nib ... 
+2022-06-26 10:15:01 +0000  1090 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/MealTypeVC.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/SignupVC.nib ... 
+2022-06-26 10:15:01 +0000  1007 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/SignupVC.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/SettingsVC.nib ... 
+2022-06-26 10:15:01 +0000  1090 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/SettingsVC.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/THD-WY-aAg-view-ay5-JF-Uoy.nib ... 
+2022-06-26 10:15:01 +0000  8561 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/THD-WY-aAg-view-ay5-JF-Uoy.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/pUH-nq-ak5-view-6bi-1M-dEP.nib ... 
+2022-06-26 10:15:01 +0000  27272 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/pUH-nq-ak5-view-6bi-1M-dEP.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/UINavigationController-NVL-wy-7cX.nib ... 
+2022-06-26 10:15:01 +0000  1784 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/UINavigationController-NVL-wy-7cX.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/DashboardVC.nib ... 
+2022-06-26 10:15:01 +0000  1014 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/DashboardVC.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/SideMenuController.nib ... 
+2022-06-26 10:15:01 +0000  1028 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/SideMenuController.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/FJN-Q4-6cx-view-lGb-e6-Yve.nib ... 
+2022-06-26 10:15:01 +0000  22740 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/FJN-Q4-6cx-view-lGb-e6-Yve.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/TabbarVC.nib ... 
+2022-06-26 10:15:01 +0000  4144 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/TabbarVC.nib
+copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/Info.plist ... 
+2022-06-26 10:15:01 +0000  645 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/Main.storyboardc/LoginVC.nib ... 
+2022-06-26 10:15:01 +0000  1083 bytes for ./Payload/MealVille.app/Base.lproj/Main.storyboardc/LoginVC.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-7lw-HD-z39.nib ... 
+2022-06-26 10:15:01 +0000  896 bytes for ./Payload/MealVille.app/Base.lproj/LaunchScreen.storyboardc/UIViewController-7lw-HD-z39.nib
+copying file ./Payload/MealVille.app/Base.lproj/LaunchScreen.storyboardc/7lw-HD-z39-view-93l-NN-ETi.nib ... 
+2022-06-26 10:15:01 +0000  2636 bytes for ./Payload/MealVille.app/Base.lproj/LaunchScreen.storyboardc/7lw-HD-z39-view-93l-NN-ETi.nib
+copying file ./Payload/MealVille.app/Base.lproj/LaunchScreen.storyboardc/Info.plist ... 
+2022-06-26 10:15:01 +0000  258 bytes for ./Payload/MealVille.app/Base.lproj/LaunchScreen.storyboardc/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Assets.car ... 
+2022-06-26 10:15:01 +0000  2720047 bytes for ./Payload/MealVille.app/Assets.car
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/BoardingCollectoinCell.nib ... 
+2930 bytes for ./Payload/MealVille.app/BoardingCollectoinCell.nib
+copying file ./Payload/MealVille.app/MealTypeCell.nib ... 
+5335 bytes for ./Payload/MealVille.app/MealTypeCell.nib
+copying file ./Payload/MealVille.app/MealVille ... 
+2022-06-26 10:15:01 +0000  329616 bytes for ./Payload/MealVille.app/MealVille
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  1798 bytes for ./Payload/MealVille.app/Frameworks/SwiftyJSON.framework/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON ... 
+2022-06-26 10:15:01 +0000  358448 bytes for ./Payload/MealVille.app/Frameworks/SwiftyJSON.framework/SwiftyJSON
+copying file ./Payload/MealVille.app/Frameworks/SwiftyJSON.framework/Info.plist ... 
+2022-06-26 10:15:01 +0000  742 bytes for ./Payload/MealVille.app/Frameworks/SwiftyJSON.framework/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  5706 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD ... 
+2022-06-26 10:15:01 +0000  213296 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png ... 
+2022-06-26 10:15:01 +0000  365 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png ... 
+2022-06-26 10:15:01 +0000  398 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@3x.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png ... 
+2022-06-26 10:15:01 +0000  8319 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@3x.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png ... 
+2022-06-26 10:15:01 +0000  4893 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask@2x.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png ... 
+2022-06-26 10:15:01 +0000  306 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error@2x.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png ... 
+2022-06-26 10:15:01 +0000  1200 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@3x.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png ... 
+2022-06-26 10:15:01 +0000  462 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@2x.png
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png ... 
+2022-06-26 10:15:01 +0000  714 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success@3x.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png ... 
+2022-06-26 10:15:01 +0000  816 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/info@2x.png
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png ... 
+2022-06-26 10:15:01 +0000  184 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/error.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png ... 
+2022-06-26 10:15:01 +0000  262 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/success.png
+copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png ... 
+2022-06-26 10:15:01 +0000  1845 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/SVProgressHUD.bundle/angle-mask.png
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/Info.plist ... 
+2022-06-26 10:15:01 +0000  748 bytes for ./Payload/MealVille.app/Frameworks/SVProgressHUD.framework/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/MKOtpView.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  1798 bytes for ./Payload/MealVille.app/Frameworks/MKOtpView.framework/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView ... 
+2022-06-26 10:15:01 +0000  153552 bytes for ./Payload/MealVille.app/Frameworks/MKOtpView.framework/MKOtpView
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/MKOtpView.framework/Info.plist ... 
+2022-06-26 10:15:01 +0000  740 bytes for ./Payload/MealVille.app/Frameworks/MKOtpView.framework/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/DropDown.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  2096 bytes for ./Payload/MealVille.app/Frameworks/DropDown.framework/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/DropDown.framework/DropDown ... 
+2022-06-26 10:15:01 +0000  405328 bytes for ./Payload/MealVille.app/Frameworks/DropDown.framework/DropDown
+copying file ./Payload/MealVille.app/Frameworks/DropDown.framework/DropDownCell.nib ... 
+2022-06-26 10:15:01 +0000  2511 bytes for ./Payload/MealVille.app/Frameworks/DropDown.framework/DropDownCell.nib
+copying file ./Payload/MealVille.app/Frameworks/DropDown.framework/Info.plist ... 
+2022-06-26 10:15:01 +0000  739 bytes for ./Payload/MealVille.app/Frameworks/DropDown.framework/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/OTPFieldView.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  1798 bytes for ./Payload/MealVille.app/Frameworks/OTPFieldView.framework/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView ... 
+2022-06-26 10:15:01 +0000  178336 bytes for ./Payload/MealVille.app/Frameworks/OTPFieldView.framework/OTPFieldView
+copying file ./Payload/MealVille.app/Frameworks/OTPFieldView.framework/Info.plist ... 
+2022-06-26 10:15:01 +0000  747 bytes for ./Payload/MealVille.app/Frameworks/OTPFieldView.framework/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  1798 bytes for ./Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift ... 
+2022-06-26 10:15:01 +0000  865360 bytes for ./Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/IQKeyboardManagerSwift
+copying file ./Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/Info.plist ... 
+2022-06-26 10:15:01 +0000  768 bytes for ./Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/Alamofire.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  1798 bytes for ./Payload/MealVille.app/Frameworks/Alamofire.framework/_CodeSignature/CodeResources
+copying file ./Payload/MealVille.app/Frameworks/Alamofire.framework/Alamofire ... 
+2022-06-26 10:15:01 +0000  1300064 bytes for ./Payload/MealVille.app/Frameworks/Alamofire.framework/Alamofire
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/Alamofire.framework/Info.plist ... 
+740 bytes for ./Payload/MealVille.app/Frameworks/Alamofire.framework/Info.plist
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/MMDrawerController.framework/_CodeSignature/CodeResources ... 
+2022-06-26 10:15:01 +0000  1798 bytes for ./Payload/MealVille.app/Frameworks/MMDrawerController.framework/_CodeSignature/CodeResources
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController ... 
+2022-06-26 10:15:01 +0000  213072 bytes for ./Payload/MealVille.app/Frameworks/MMDrawerController.framework/MMDrawerController
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Frameworks/MMDrawerController.framework/Info.plist ... 
+2022-06-26 10:15:01 +0000  760 bytes for ./Payload/MealVille.app/Frameworks/MMDrawerController.framework/Info.plist
+copying file ./Payload/MealVille.app/embedded.mobileprovision ... 
+2022-06-26 10:15:01 +0000  21103 bytes for ./Payload/MealVille.app/embedded.mobileprovision
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/Info.plist ... 
+2022-06-26 10:15:01 +0000  1522 bytes for ./Payload/MealVille.app/Info.plist
+copying file ./Payload/MealVille.app/SideMenuTableViewCell.nib ... 
+2022-06-26 10:15:01 +0000  4239 bytes for ./Payload/MealVille.app/SideMenuTableViewCell.nib
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/PkgInfo ... 
+8 bytes for ./Payload/MealVille.app/PkgInfo
+2022-06-26 10:15:01 +0000  copying file ./Payload/MealVille.app/IntroImageCell.nib ... 
+2022-06-26 10:15:01 +0000  3667 bytes for ./Payload/MealVille.app/IntroImageCell.nib
+2022-06-26 10:15:01 +0000  /usr/bin/ditto exited with 0
+2022-06-26 10:15:01 +0000  Processing step: IDEDistributionAppStoreInformationStep
+2022-06-26 10:15:01 +0000  Skipping step: IDEDistributionAppStoreInformationStep because it said so
+2022-06-26 10:15:01 +0000  Processing step: IDEDistributionGenerateProcessedDistributionItems
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe7172b6490:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SVProgressHUD.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe7172409c0:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MMDrawerController.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe716df4c60:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/IQKeyboardManagerSwift.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe717421bb0:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/DropDown.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe7172195c0:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/SwiftyJSON.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe71722ae20:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/MKOtpView.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe71677e4b0:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/OTPFieldView.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe7172b70f0:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app/Frameworks/Alamofire.framework'>
+2022-06-26 10:15:01 +0000  IDEDistributionItem init <DVTFilePath:0x7fe7395d7180:'/var/folders/1n/bg1vd6hn5yd0lzprsnw608m00000gn/T/XcodeDistPipeline.~~~4aFFWu/Root/Payload/MealVille.app'>
+2022-06-26 10:15:01 +0000  Processing step: IDEDistributionCreateManifestStep
